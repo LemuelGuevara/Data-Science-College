@@ -1,0 +1,10 @@
+# Ignore all excel related files
+*.xls
+*.xlsx
+*.csv
+# Ignore all parquet related files
+*.parq
+*.parquet
+# Extra
+/.ipynb_checkpoints
+*.DS_Store
