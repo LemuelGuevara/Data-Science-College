@@ -1,0 +1,6 @@
+name: Data-Science-College
+channels:
+  - defaults
+dependencies:
+  - python=3.9.16
+prefix: /Users/lemuelguevara/opt/anaconda3/envs/Data-Science-College
