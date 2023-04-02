@@ -7,4 +7,5 @@
 *.parquet
 # Extra
 /.ipynb_checkpoints
+NY-Counties/
 *.DS_Store
